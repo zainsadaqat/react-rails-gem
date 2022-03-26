@@ -1,10 +1,10 @@
 class V1::ThingsController < ApplicationController
   def index
-    render json: { :things => [
+    render json: { things: [
       {
-        :name => 'some-thing',
-        :guid => 'alsdjflaskjdfljkdsafldkj'
+        name: 'some-thing',
+        guid: 'alsdjflaskjdfljkdsafldkj'
       }
-    ]}.to_json
+    ] }.to_json
   end
 end
