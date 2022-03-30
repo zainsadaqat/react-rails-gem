@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello React Rails
+# Hello React Rails (React+Rails)
 
 ## Built With
 
