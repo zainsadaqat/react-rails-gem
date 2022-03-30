@@ -35,9 +35,9 @@ rails s
 
 👤 **Zain Sadaqat**
 
-- GitHub: [@githubhandle](https://github.com/zainsadaqat)
-- Twitter: [@twitterhandle](https://twitter.com/zain_sadaqat)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/zain-sadaqat)
+- GitHub: [@zainsadaqat](https://github.com/zainsadaqat)
+- Twitter: [@zain_sadaqat](https://twitter.com/zain_sadaqat)
+- LinkedIn: [zain-sadaqat](https://linkedin.com/in/zain-sadaqat)
 
 ## 🤝 Contributing
 
